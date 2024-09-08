@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return(
-    <div>Home Page</div>
+    <div>0327_3062291</div>
   )
 }
 
